@@ -1,2 +1,2 @@
 # hit_peas
-A game
+Android game
