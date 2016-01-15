@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, HitPeasActivity!</string>
+    <string name="app_name">HitPeas</string>
+    <string name="error">Error</string>
+    <string name="time_laber">Time:</string>
+    <string name="score_label">Score:</string>
+    <string name="Game_over_label">Game over</string>
+    <string name="ok">OK</string>
+
+</resources>
